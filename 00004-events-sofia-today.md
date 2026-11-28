@@ -692,3 +692,52 @@ https://kino.nova.bg/schedule
 12. Няма технически отпадък или неработещо форматиране.
 
 При неизпълнена точка коригирай отговора преди публикуване.
+
+
+## OUTPUT FORMAT — BALANCED DAILY BRIEFING
+
+Produce a concise but sufficiently informative daily briefing. Preserve all information categories, research requirements, geographic filters, and verification rules.
+
+### Length and structure
+
+- Target 800–1,200 words for the entire response, with a maximum of 1,500 words when there is substantial relevant information.
+- Aim for a reading time of 4–6 minutes.
+- Use clearly numbered sections and descriptive headings.
+- Start with a brief executive summary highlighting up to three important developments.
+- Avoid repeating information from the executive summary in unnecessary detail.
+
+### Content presentation
+
+- **Weather:** Provide current conditions, minimum and maximum temperatures, precipitation, significant hourly changes, and weather warnings.
+- **Events:** Include time, location, price, a 25–40-word description, and a direct source link.
+- **Traffic and restrictions:** Include affected locations, time periods, reasons, and practical impact.
+- **News:** Provide a headline and 2–3 informative sentences explaining what happened and why it matters.
+- **Name days:** Provide names and a brief explanation when relevant.
+- **Movies:** Include time, channel, title, year, genre, and a short synopsis for recommended movies.
+- **Personal calendar:** Include relevant appointments, times, and scheduling conflicts.
+- **Job opportunities:** Include company, position, location, publication date when available, key responsibilities, relevance, and direct application link.
+
+### Visual formatting
+
+- Use Markdown tables for schedules, comparisons, and structured information.
+- Use short paragraphs for information requiring context.
+- Use bold text to highlight important facts.
+- Include images, maps, or charts only when they provide meaningful additional information.
+- Avoid decorative images, oversized cards, excessive separators, and unnecessary visual elements.
+
+### Information density
+
+- Every sentence should provide new and relevant information.
+- Avoid generic commentary, obvious conclusions, redundant explanations, and filler.
+- Do not omit relevant findings merely to meet the target length.
+- Adjust the length of each section according to the quantity and importance of available information.
+- If no relevant information is found, state this in one sentence.
+
+### Sources and verification
+
+- Provide direct source links for individual findings.
+- Clearly distinguish confirmed, partially verified, and unconfirmed information.
+- Include a short verification note at the end, covering only material limitations.
+- Do not create a separate detailed verification table.
+
+Be comprehensive in research, selective in presentation, and concise in wording. The briefing should be sufficiently informative to understand each finding without opening its source.
