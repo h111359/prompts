@@ -24,6 +24,10 @@ For a one-off task, make the purpose task-specific instead of inventing a perman
 
 - [Specific outcome the agent should deliver.]
 - [Additional outcome only if it materially affects success.]
+- [Observable condition that demonstrates the main aim was met.]
+- [Evidence or validation needed to assess the deliverable.]
+- [Unresolved points and limitations that must be disclosed.]
+- [Scope or output condition that must hold for the result to be acceptable.]
 
 ## 4. Scope and boundaries
 
@@ -54,10 +58,3 @@ Leave the choice of working method open unless a stated constraint requires a pa
 - [Required content, level of detail, and intended audience.]
 - [How evidence, uncertainty, recommendations, and completed actions must be distinguished.]
 - [Task-specific response requirements, if needed.]
-
-## 8. Completion criteria
-
-- [Observable condition that demonstrates the main objective was met.]
-- [Evidence or validation needed to assess the deliverable.]
-- [Unresolved points and limitations that must be disclosed.]
-- [Scope or output condition that must hold for the result to be acceptable.]
