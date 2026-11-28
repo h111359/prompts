@@ -69,3 +69,11 @@ prompts:
     menu_number: 7
     tags:
       - briefing
+
+  - file: 00008-ms-fabric-training.md
+    title: MS Fabric Training
+    description: MS Fabric
+    menu_number: 8
+    tags:
+      - training
+  
