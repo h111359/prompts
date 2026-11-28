@@ -62,3 +62,10 @@ prompts:
       - authoring
       - prompt-design
       - template
+
+  - file: 00007-ai-news.md
+    title: Generate AI News report for the recent week
+    description: Generate a news report about AI for the recent days, including major events, breakthroughs
+    menu_number: 7
+    tags:
+      - briefing
