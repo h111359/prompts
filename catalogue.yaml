@@ -1,0 +1,64 @@
+# The menu reads its entries from this file. Register each Markdown prompt once.
+#
+# To add a prompt, copy a complete entry under prompts and edit all five fields.
+#   file        Exact path relative to the repository root, with forward slashes.
+#   title       Short name displayed in the menu.
+#   description One sentence explaining what the prompt does.
+#   menu_number Unique positive integer. Keep 0 reserved for menu.md.
+#   tags        Names defined in tags.md, one per line. Use tags: [] if none apply.
+#
+# Indent with spaces. Use two spaces before "- file", four before the remaining
+# fields, and six before each tag bullet. Double-quote titles or descriptions
+# containing a colon followed by a space or a #.
+#
+# When moving or renaming a prompt, update file and keep its menu_number.
+# When removing a prompt, delete its entire entry.
+
+prompts:
+  - file: menu.md
+    title: Menu
+    description: List available prompts and let the user choose one by number.
+    menu_number: 0
+    tags:
+      - navigation
+
+  - file: 00002-web-site-analyze.md
+    title: Website Audit
+    description: Audit a website and provide evidence-based findings and recommendations.
+    menu_number: 2
+    tags:
+      - audit
+      - websites
+
+  - file: 00003-prompt-engineer.md
+    title: Prompt Engineering
+    description: Draft and refine a prompt through rounds of feedback.
+    menu_number: 3
+    tags:
+      - authoring
+      - prompt-design
+
+  - file: 00004-events-sofia-today.md
+    title: Sofia Today
+    description: Prepare a verified daily briefing on Sofia, including weather, events, travel restrictions, and news.
+    menu_number: 4
+    tags:
+      - briefing
+      - local-events
+      - sofia
+
+  - file: 00005-research.md
+    title: Best Practices Research
+    description: Research best practices, trade-offs, and common pitfalls for a topic using multiple sources.
+    menu_number: 5
+    tags:
+      - research
+
+  - file: 00006-prompt-format.md
+    title: Prompt Format
+    description: Structure a new or revised prompt using a standard eight-section template.
+    menu_number: 6
+    tags:
+      - authoring
+      - prompt-design
+      - template
